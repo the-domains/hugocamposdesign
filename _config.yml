@@ -6,9 +6,10 @@ color:
   saturation: 0.2711955981794745
   rhythmicContrast: 0.8325328403152525
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: HugoCamposDesign
+title: Art & Design
