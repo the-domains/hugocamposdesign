@@ -1,0 +1,14 @@
+layout_spectrum: 0.4802516798954457
+typography_spectrum: 0.9067049357108772
+color:
+  brandStrength: 0.7979866282548755
+  lightness: 0.7140475818887353
+  saturation: 0.2711955981794745
+  rhythmicContrast: 0.8325328403152525
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: HugoCamposDesign
